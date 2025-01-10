@@ -1,6 +1,9 @@
 
 # FORO HUB
 
+![Static Badge](https://img.shields.io/badge/Cristhy-viera)
+
+
 FORO HUB - CHAllENEGE, te permite realizar las siguientes actividades: 
 * Registro de un nuevo tópico.
 * Mostrar todos los tópicos.
