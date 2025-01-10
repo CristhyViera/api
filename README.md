@@ -1,8 +1,7 @@
 
 # FORO HUB
 
-![Static Badge](https://img.shields.io/badge/FORO)
-
+![Static Badge](https://img.shields.io/badge/FORO_HUB_CHLLENGE-BLUE)
 
 FORO HUB - CHAllENGE, te permite realizar las siguientes actividades: 
 * Registro de un nuevo tópico.
@@ -33,4 +32,5 @@ FORO HUB - CHAllENGE, te permite realizar las siguientes actividades:
 
 ## Autores
 
-cristhyviera@gmail.com
+![Static Badge](https://img.shields.io/badge/CRISTHY_VIERA-8A2BE2)
+
