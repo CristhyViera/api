@@ -1,4 +1,4 @@
-![Image Alt](image_url)
+![Image Alt](https://github.com/CristhyViera/api/blob/9bf51b6c8d7adaa63e6d618cec5ca03fb4d9d2d8/FOROHUB.jpg)
 # FORO HUB
 
 ![Static Badge](https://img.shields.io/badge/FORO_HUB_CHLLENGE-BLUE)
