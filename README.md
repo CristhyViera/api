@@ -1,10 +1,10 @@
 
 # FORO HUB
 
-![Static Badge](https://img.shields.io/badge/Cristhy-viera)
+![Static Badge](https://img.shields.io/badge/FORO)
 
 
-FORO HUB - CHAllENEGE, te permite realizar las siguientes actividades: 
+FORO HUB - CHAllENGE, te permite realizar las siguientes actividades: 
 * Registro de un nuevo tópico.
 * Mostrar todos los tópicos.
 * Detallar un tópico.
